@@ -11,7 +11,7 @@ movies = [
     {"aty": "AlphaJet", "imdb": 3.2, "category": "War"},
     {"aty": "Ringing Crime", "imdb": 4.0, "category": "Crime"},
     {"aty": "Joking muck", "imdb": 7.2, "category": "Comedy"},
-    {"aty": "What is the aty", "imdb": 9.2, "category": "Suspense"},
+    {"aty": "What is the king", "imdb": 9.2, "category": "Suspense"},
     {"aty": "Detective", "imdb": 7.0, "category": "Suspense"},
     {"aty": "Exam", "imdb": 4.2, "category": "Thriller"},
     {"aty": "We Two", "imdb": 7.2, "category": "Romance"}
